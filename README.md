@@ -46,7 +46,7 @@
 ---
 
 #### a local image ####
-![image](https://github.com/Hupy2118/EXP/1.jpg)
+![image](https://github.com/Hupy2118/EXP/pic.jpg)
 
 ---
 #### an image on the Internet ####
