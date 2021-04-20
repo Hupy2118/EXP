@@ -37,7 +37,7 @@
 
 #### a table ####
 
-| 姓名 | <p align="center">爱好</p> |
+| <p align="center">姓名</p> | <p align="center">爱好</p> |
 | :-: | :----|
 | 小红 | 唱歌、跳舞 |
 | 小明 | 篮球、游戏 |
