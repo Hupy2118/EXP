@@ -1,4 +1,4 @@
-# Hello GitHub #
+# <p align="center">Hello GitHub</p> #
 
 **This is my first time to use GitHub.**
 
