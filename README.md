@@ -1,4 +1,4 @@
-# <center>Hello GitHub</center> #
+# Hello GitHub #
 
 **This is my first time to use GitHub.**
 
@@ -37,7 +37,7 @@
 
 #### a table ####
 
-| 姓名 | <center>爱好</center> |
+| 姓名 | 爱好 |
 | :-: | :----|
 | 小红 | 唱歌、跳舞 |
 | 小明 | 篮球、游戏 |
