@@ -53,7 +53,7 @@
 ![](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fbpic.588ku.com%2Fback_pic%2F03%2F72%2F70%2F3657b96a43e51c9.jpg&refer=http%3A%2F%2Fbpic.588ku.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1621515725&t=7b9a3e0c1eafc77061b73505adba0774)
 
 ---
-#### an  link ####
+#### a local link ####
 [https://github.com/Hupy2118/EXP/blob/main/show.md](https://github.com/Hupy2118/EXP/blob/main/show.md)
 
 ---
