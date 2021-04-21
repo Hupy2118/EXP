@@ -52,7 +52,8 @@
 ---
 
 #### a local image ####
-![image](https://raw.githubusercontent.com/Hupy2118/EXP/main/pic.jpg)
+![image](https://raw.githubusercontent.com/Hupy2118/EXP/main/pic.jpg)    
+*Ps:If the image is not displayed, please add "185.199.108.133 raw.githubusercontent.com" to the local hosts file.*
 
 ---
 #### an image on the Internet ####
