@@ -7,7 +7,7 @@
 ~~I will show my achievements in this article.~~
 
 ## My Challenge  ##
-#### a block quote ####
+#### a code block ####
 ```
     #include <stdio.h>
     int main(void)
@@ -17,6 +17,12 @@
 ```
 
 ---
+
+#### a block quote ####
+>GitHub is a web-based Git or version control repository and Internet hosting service. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project.
+
+---
+
 #### a numbered list ####
 
 1. Git,GitHub and Markdown
