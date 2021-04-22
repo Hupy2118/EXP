@@ -52,7 +52,7 @@
 ---
 
 #### a local image ####
-![image](https://raw.githubusercontent.com/Hupy2118/EXP/main/pic.jpg)    
+![image](/pic.jpg)    
 *Ps:If the image is not displayed, please add "185.199.108.133 raw.githubusercontent.com" to the local hosts file.*
 
 ---
@@ -61,10 +61,10 @@
 
 ---
 #### a local link ####
-[https://github.com/Hupy2118/EXP/blob/main/show.md](https://github.com/Hupy2118/EXP/blob/main/show.md)
+[show.md](https://github.com/Hupy2118/EXP/blob/main/show.md)
 
 ---
 #### an link on the Internet ####
-[https://baike.baidu.com/item/Github/10145341?fr=aladdin](https://baike.baidu.com/item/Github/10145341?fr=aladdin)
+[more about GitHub](https://baike.baidu.com/item/Github/10145341?fr=aladdin)
 
 
